@@ -1,0 +1,21 @@
+h1 {
+    color:blue;
+}
+
+h2 {
+    background-color: cyan;
+    color: darkblue;
+}
+
+.merah {
+    color:red;
+}
+
+.kanan {
+    text-align: right;
+}
+
+#tengah {
+    text-align: center;
+}
+
